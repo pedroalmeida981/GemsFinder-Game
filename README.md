@@ -49,8 +49,6 @@ No successful clean build or gameplay test was independently confirmed while pre
 
 Collectibles touched by player versus other colliders, simultaneous collision events, zero/negative counters, restarting a level, missing audio/UI objects, landing and jump boundaries, scene order and keyboard-only menu navigation.
 
-See [Interview and QA notes](docs/INTERVIEW_PREP.md).
-
 ## Portfolio context
 
 This is a learning project in Unity and C#. Its value is the gameplay source and the opportunity to discuss state management, collision edge cases, test design and maintainability—not an assertion of a polished released game.
